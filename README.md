@@ -1,10 +1,10 @@
-<h2 align="center">Hi there, I'm Cess! 👋</h2>
+# Hi there, I'm Cess! 👋
 
 <p align="center">
   Welcome to my GitHub profile! I'm passionate about bridging the gap between design and technology to create innovative solutions that positively impact communities and society as a whole. As a self-proclaimed tech nerd, I'm constantly exploring the exciting realms of UI/UX design and machine learning, with a keen interest in their applications in real estate, finance, and beyond.
 </p>
 
-<h3>👩‍💻 About Me</h3>
+# 👩‍💻 About Me
 
 <ul>
   <li>🌱 I'm currently a Machine Learning Consultant Intern at Thinking Machines Data Science, where I'm honing my skills in data analysis and predictive modeling.</li>
@@ -12,13 +12,13 @@
   <li>🎓 I'm currently studying Bachelor of Science degree in Computer Science from the prestigious University of the Philippines Diliman.</li>
 </ul>
 
-<h3>✨ What Excites Me</h3>
+# ✨ What Excites Me
 
 <p>
   I find great joy in learning about emerging technologies and leveraging my skills to design and build solutions that enhance people's lives. The ever-evolving landscape of technology inspires me to stay up to date and seek new challenges to tackle. I believe in the power of human-centered design and the potential of machine learning to shape a better future.
 </p>
 
-<h3>🌐 Let's Connect</h3>
+# 🌐 Let's Connect
 
 <p>
   Feel free to explore my work and connect with me through the following channels:
