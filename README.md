@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about bridging the gap between desi
 # ✨ What Excites Me
 
 <p>
-  I find great joy in learning about emerging technologies and leveraging my skills to design and build solutions that enhance people's lives. The ever-evolving landscape of technology inspires me to stay up to date and seek new challenges to tackle. I believe in the power of human-centered design and the potential of machine learning to shape a better future.
+  I find great joy in learning about emerging technologies and leveraging my skills to design and build solutions that enhance people's lives. The ever-evolving landscape of technology inspires me to stay up to date and seek new challenges to tackle. I believe in the power of human-centered design and the potential of machine learning to shape a better future. 
 </p>
 
 # 🌐 Let's Connect
