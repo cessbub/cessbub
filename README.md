@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about bridging the gap between desi
 
 <p align="center">
   <a href="https://princessventures.com">💻 Portfolio</a> |
-  <a href="https://calendly.com/cessventures/15min">📅 Book a Call</a> |
+  <a href="https://calendly.com/cessventures/30-min-call">📅 Book a Call</a> |
   <a href="mailto:hello@princessventures.com">💌 Email</a>
 </p>
 
