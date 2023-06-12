@@ -1,5 +1,6 @@
 # Hi there, I'm Cess! 👋
 
+_My heart beats for art, while my mind is wired for technology_
 
 Welcome to my GitHub profile! I'm passionate about bridging the gap between design and technology to create innovative solutions that positively impact communities and society as a whole. As a self-proclaimed tech nerd, I'm constantly exploring the exciting realms of UI/UX design and machine learning, with a keen interest in their applications in education, health, finance, and beyond.
 
