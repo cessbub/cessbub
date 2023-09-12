@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about bridging the gap between desi
 # 👩‍💻 About Me
 
 <ul>
-  <li>🌱 I was a <b>Machine Learning Consultant Intern</b> at <b>Thinking Machines Data Science</b>, where I'm honing my skills in data analysis and predictive modeling.</li>
+  <li>🌱 I was a <b>Machine Learning Consultant Intern</b> at <b>Thinking Machines Data Science</b>, where I honed my skills in data analysis and predictive modeling.</li>
   <li>💼 I also interned as an <b>Artificial Intelligence Intern</b> at <b>Bank of the Philippine Islands (BPI)</b>, gaining valuable experience in AI-powered solutions for the financial sector.</li>
   </li>
 </ul>
