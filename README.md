@@ -1,6 +1,6 @@
 # Hi there, I'm Cess! 👋
 
-Hey there! I'm Cess 👋 My journey is at the exciting intersection of design and technology. As a healthtech innovator and the co-founder of VitalRadar, I channel my artistic sensibilities into creating innovative healthcare solutions.
+Hey there! My journey is at the exciting intersection of design and technology. As a healthtech innovator and the co-founder of VitalRadar, I channel my artistic sensibilities into creating innovative healthcare solutions.
 
 # 👩‍💻 About Me
 
