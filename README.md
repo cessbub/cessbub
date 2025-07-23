@@ -1,14 +1,6 @@
 # Hi there, I'm Cess! 👋
 
-Hey there! My journey is at the exciting intersection of design and technology. As a healthtech innovator and the co-founder of VitalRadar, I channel my artistic sensibilities into creating innovative healthcare solutions.
-
-# 👩‍💻 About Me
-
-<ul>
-  <li>🌱 I was a <b>Machine Learning Consultant Intern</b> at <b>Thinking Machines Data Science</b>, where I honed my skills in data analysis and predictive modeling.</li>
-  <li>💼 I also interned as an <b>Artificial Intelligence Intern</b> at <b>Bank of the Philippine Islands (BPI)</b>, gaining valuable experience in AI-powered solutions for the financial sector.</li>
-  </li>
-</ul>
+Hey there! My journey is at the exciting intersection of design and technology. As a healthtech innovator, I channel my artistic sensibilities into creating innovative healthcare solutions.
 
 # ✨ What Excites Me
 
